@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-This project is intended to analyze kickstarter campaign data to provide Louise additional insight on how campaigns fared relative to different measures and parameters.
+This project is intended to analyze kickstarter campaign data to provide Louise additional insight on how campaigns fared relative to different measures and parameters.  The excel kickstarter file was used as basis for the analysis and can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/test-repo/blob/main/Kickstarter_Challenge.xlsx)
 
 **** Add in references to links and pictures *****
 

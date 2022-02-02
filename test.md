@@ -31,6 +31,8 @@ Conclusion 2: Month of the year does not seem to have an impact on when theater 
 
 What can you conclude about the Outcomes based on Goals?
 
+Using this chart for ![Outcome_vs_Goals](https://github.com/lavec0324/test-repo/blob/main/Resources/Outcomes_vs_Goals.png)
+
 Conclusion 1: The highest of goals (above 45k) have the greatest failure rates.
 
 Conclusion 2: Goals set below $1000 has the highest success rate at 76%.
